@@ -33,8 +33,6 @@ I enjoy transforming ideas into production-ready applications while continuously
 ## 🚀 Current Projects
 
 - 🧠 **Enterprise Knowledge Intelligence Platform**
-- 🤖 **AI Opportunity Intelligence Platform**
-- 📚 Learning System Design & Cloud Deployment
 
 ---
 
@@ -70,7 +68,6 @@ I enjoy transforming ideas into production-ready applications while continuously
 | Project | Description |
 |---------|-------------|
 | 🧠 Enterprise Knowledge Intelligence Platform | AI-powered enterprise assistant using RAG, LLMs and intelligent agents |
-| 🤖 AI Opportunity Intelligence Platform | AI platform that discovers internships, scholarships and research opportunities |
 | 🏋️ AI Fitness | Real-time exercise posture correction using computer vision |
 | 🌍 AQI Prediction | Machine Learning model developed during internship |
 
